@@ -1,5 +1,4 @@
 # Covid-Dashboard
-Repo for webpage hosting live data of Covid-19 via dashboard project
 
 
 <iframe title="COVID-19 Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjQ1YzkyMzItNmEzOS00NmExLWIwODQtN2FlMWU3YzQ1NmUzIiwidCI6ImUyZDIxNWM1LTc5MDgtNDYxNi1hMmE0LTY2NzkwYmEyMjFiMiJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
