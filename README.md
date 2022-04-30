@@ -1,4 +1,4 @@
 # Covid-Dashboard
 
 
-<iframe title="COVID-19 Dashboard" width="80%" height="1120.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjQ1YzkyMzItNmEzOS00NmExLWIwODQtN2FlMWU3YzQ1NmUzIiwidCI6ImUyZDIxNWM1LTc5MDgtNDYxNi1hMmE0LTY2NzkwYmEyMjFiMiJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="COVID-19 Dashboard" width="98%" height="1120.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjQ1YzkyMzItNmEzOS00NmExLWIwODQtN2FlMWU3YzQ1NmUzIiwidCI6ImUyZDIxNWM1LTc5MDgtNDYxNi1hMmE0LTY2NzkwYmEyMjFiMiJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
